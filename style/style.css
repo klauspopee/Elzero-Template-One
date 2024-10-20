@@ -47,7 +47,7 @@ body {
   text-align: center;
   font-weight: 800;
   letter-spacing: -3px;
-  color: #ebeced;
+  color: #888;
   margin: 0;
 }
 .special-heading + p {
@@ -189,6 +189,7 @@ body {
 }
 .features .feat i {
   color: var(--main-color);
+  font-size: 25px;
 }
 .features .feat h3 {
   font-weight: 800;
