@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+* {
+    box-sizing: border-box;
+}
+=======
 /* Start Variables */
 :root {
   --main-color:#10cab7;
@@ -207,3 +212,4 @@ body {
   padding-bottom: 60px;
 }
 /* End Services */
+>>>>>>> a58f383616be09c90e9753c4b34087bcd1b672e0
